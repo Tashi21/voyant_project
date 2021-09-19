@@ -80,11 +80,11 @@ factory|work* |wealth* |industry|production|machine*
   
 *Corpus 1:* 
 
-<iframe style='width: 509px; height: 358px;' src='https://voyant-tools.org/tool/CorpusTerms/?query=hunger*&query=hunger&query=hungry*&query=servant*&query=servant&query=poor*&query=poor&query=riot*&query=riot&query=crime*&query=violence*&query=mob*&query=fight*&query=sick*&query=violence&corpus=b3759ac665b9ae81bf04e31421f23781'data-external='1'></iframe> 
+<iframe style='width: 509px; height: 358px;' src='https://voyant-tools.org/tool/CorpusTerms/?query=hunger*&query=hunger&query=hungry*&query=servant*&query=servant&query=poor*&query=poor&query=riot*&query=riot&query=crime*&query=violence*&query=mob*&query=fight*&query=sick*&query=violence&corpus=b3759ac665b9ae81bf04e31421f23781' data-external='1'></iframe>
 
 *Corpus 2:* 
 
-<iframe style='width: 509px; height: 358px;' src='https://voyant-tools.org/tool/CorpusTerms/?query=hunger*&query=hunger&query=servant*&query=servant&query=poor*&query=poor&query=violence*&query=riot*&query=fight*&query=fight&query=mob*&query=crime&corpus=321ac1c06fcf8d0c249f71294d7f8f0a'data-external='1'></iframe> 
+<iframe style='width: 509px; height: 358px;' src='https://voyant-tools.org/tool/CorpusTerms/?query=hunger*&query=hunger&query=servant*&query=servant&query=poor*&query=poor&query=violence*&query=riot*&query=fight*&query=fight&query=mob*&query=crime&corpus=321ac1c06fcf8d0c249f71294d7f8f0a' data-external='1'></iframe>
 
 **Tool 3: DreamScape**
 
@@ -94,9 +94,9 @@ factory|work* |wealth* |industry|production|machine*
 
   We then used the earlier frequency tool for references to the 4 countries, where we saw a significant rise in the peaks in novels after 1848, using:
 
-france|french|ital* |austria* |german*
+france|french|italy|italian* |austria* |german*
 
-<iframe style='width: 477px; height: 348px;' src='https://voyant-tools.org/tool/Trends/?query=france%7Cfrench%7Cital*%7Caustria*%7Cgerman&corpus=affb58168dd59d2a279b36e264b6829c'data-external='1'></iframe>
+<iframe style='width: 477px; height: 348px;' src='https://voyant-tools.org/tool/Trends/?query=france%7Cfrench%7Citaly%7Citalian*%7Caustria*%7Cgerman&corpus=affb58168dd59d2a279b36e264b6829c' data-external='1'></iframe>
 
   The highest references were in A Child’s History of England, written in 1851, which makes sense due to the theme of the book. 
 
